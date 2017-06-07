@@ -1,0 +1,60 @@
+span 
+{
+	background-color: red;
+	width:150px;
+	height:150px;
+    margin-right: 20px;
+}
+
+div
+{
+	margin-bottom: 20px;
+    width: 520px;
+    height: 150px;
+    /*border: 1px solid black;*/
+}
+
+/* DISPLAY */
+
+.a1 {
+    display: inline-flex;
+	}
+
+.b1 {
+    display: inline-block;
+ 	}
+
+.c1 {
+    display: inline-block;
+	}
+
+/* FLOAT; */
+.a2 {
+  float: left;
+  margin-right: 24px;
+    }
+
+.b2 {
+	float: left;
+    margin-right: 24px;
+   }
+
+.c2 {
+	float: left;
+}
+
+/* POSITION */
+
+.a3 {
+position: absolute;	
+}
+
+.b3 {
+position: absolute;
+}
+
+.c3 {
+position: absolute;
+}
+
+
